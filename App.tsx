@@ -1,12 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
+import InputPalavras from './telas/inputPalavras';
 
 const SeuComponente = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.titulo}>Contexto</Text>
-      {/* Outros componentes e conteúdos aqui */}
+     <InputPalavras></InputPalavras>
     </View>
   );
 };
