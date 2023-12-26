@@ -29,7 +29,7 @@ Este é um aplicativo baseado no jogo "Contexto", proporcionando uma experiênci
 Contribuições são bem-vindas! Se você deseja melhorar este aplicativo ou adicionar novos recursos, sinta-se à vontade para enviar um pull request.
 
 ## Autor
-Seu Nome <carloseduardobot@gmail.com>
+ <carloseduardobot@gmail.com>
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
